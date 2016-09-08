@@ -1,5 +1,5 @@
 {
-  "name": "angular-chart.js",
+  "name": "tefdos-angular-chart.js",
   "version": "1.0.3",
   "main": [
     "./dist/angular-chart.js"
